@@ -5,6 +5,8 @@ Fri programvare i organisasjoner og stiftelser
 ==========================================
 med L. Cecilie Wian
 
+L. Cecilie snakker om det å bruke fri programvare i en liten organisasjon, 
+og om muligheter og utfordringer ved bruk av gimp/inkscape/scribus.
 
 
  * [Inkscape](http://inkscape.org/) er et vektorbasert tegneprogram (GPLv2) til Linux, Windows og Mac OS 10.5+
