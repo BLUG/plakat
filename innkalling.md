@@ -5,7 +5,7 @@ Fri programvare i organisasjoner og stiftelser
 ==========================================
 med L. Cecilie Wian
 
-L. Cecilie snakker om det å bruke fri programvare i en liten organisasjon, 
+L. Cecilie snakker om det å bruke fri programvare i en liten organisasjon som ikke er IT-orientert, 
 og om muligheter og utfordringer ved bruk av gimp/inkscape/scribus.
 
 
