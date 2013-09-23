@@ -15,7 +15,7 @@
    id="svg6924"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="plakat.pdf">
+   sodipodi:docname="plakat.svg">
   <defs
      id="defs6926">
     <radialGradient
@@ -604,7 +604,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="359.51384"
+     inkscape:cx="947.92337"
      inkscape:cy="656.94573"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -622,7 +622,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1877,87 +1877,102 @@
     <text
        xml:space="preserve"
        style="font-size:56.36342621px;font-style:normal;font-weight:normal;line-height:119.00000572%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="106.68153"
-       y="389.73837"
+       x="103.8531"
+       y="368.52518"
        id="text17307"
        sodipodi:linespacing="119.00001%"><tspan
          sodipodi:role="line"
          id="tspan17309"
-         x="106.68153"
-         y="389.73837"
+         x="103.8531"
+         y="368.52518"
          style="font-size:19.72719955px;font-style:normal;line-height:101.99999809%;-inkscape-font-specification:Sans">BLUG fortsetter møteserien <tspan
    style="font-size:19.72719955px;font-style:italic;line-height:101.99999809%;-inkscape-font-specification:Sans Italic"
    id="tspan17321">«Last Thursday»</tspan>, med</tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="435.07379"
-         id="tspan17311"
-         style="font-size:50.72708511px;font-style:normal;line-height:101.99999809%;-inkscape-font-specification:Sans">Lær kidsene koding - </tspan><tspan
+         x="103.8531"
+         y="405.13574"
+         style="font-size:40px;font-style:normal;line-height:101.99999809%;-inkscape-font-specification:Sans"
+         id="tspan3325">Software Patents: </tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="474.83719"
-         style="font-size:36px;font-style:normal;line-height:101.99999809%;-inkscape-font-specification:Sans"
-         id="tspan3323">Hva kan barna delta på, </tspan><tspan
+         x="103.8531"
+         y="439.42896"
+         style="font-size:32px;font-style:normal;line-height:101.99999809%;-inkscape-font-specification:Sans"
+         id="tspan3322">Who's Behind the Curtain?</tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="511.55719"
-         style="font-size:36px;font-style:normal;line-height:101.99999809%;-inkscape-font-specification:Sans"
-         id="tspan3325">og hvordan kan du bidra?</tspan><tspan
+         x="103.8531"
+         y="463.93549"
+         style="font-size:22px;font-style:italic;line-height:101.99999809%;-inkscape-font-specification:Sans Italic"
+         id="tspan3330">with Deb Nicholson (Open Invention Network)</tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="548.27716"
-         style="font-size:33.81805801px;font-style:normal;line-height:88.99999857%;-inkscape-font-specification:Sans"
-         id="tspan17323" /><tspan
+         x="103.8531"
+         y="483.1221"
+         style="font-size:18px;font-style:normal;line-height:101.99999809%;-inkscape-font-specification:Sans"
+         id="tspan3326"> </tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="574.43591"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3381">Lær kidsene koding! - Bergen er invitert av </tspan><tspan
+         x="103.8531"
+         y="503.92215"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3440">How do the court cases and legislative votes from the past year or </tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="597.91132"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3340">Bergen Linux User Group (BLUG) for fortelle om initiativet </tspan><tspan
+         x="103.8531"
+         y="525.34216"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3442">so impact the stream of seemingly endless software patent suits? </tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="621.38666"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3342">og hva som skjer i høst.</tspan><tspan
+         x="103.8531"
+         y="546.76215"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3466">Where are all these patents coming from? </tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="644.862"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3362" /><tspan
+         x="103.8531"
+         y="568.18213"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3446">Ms. Nicholson will give a top-level view of recent and relevant scholarly </tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="668.3374"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3364">Du får høre om Kodeklubben på biblioteket som starter opp i </tspan><tspan
+         x="103.8531"
+         y="589.60217"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3448">papers in the field, discuss evolving strategies and global efforts to </tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="691.81274"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3366">oktober, og ny aktivitetsdag 16. november. Lær kidsene koding!</tspan><tspan
+         x="103.8531"
+         y="611.02216"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3454">staunch the flow of settlement money. She'll discuss the recent trends </tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="715.28815"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3365" /><tspan
+         x="103.8531"
+         y="632.44214"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3456">and financial models that are impacting our ability to just get back to </tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="738.76349"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3369">Det blir smakebiter på noen av læringsverktøyene, Scratch, </tspan><tspan
+         x="103.8531"
+         y="653.86218"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3458">making awesome software already.</tspan><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="762.23889"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3349">og muligens NXT LEGO Mindstorm EV3, Unity og Arduino.</tspan><tspan
+         x="103.8531"
+         y="675.28217"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3436" /><tspan
          sodipodi:role="line"
-         x="106.68153"
-         y="785.71423"
-         style="font-size:19.72719955px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
-         id="tspan3375"> </tspan></text>
+         x="103.8531"
+         y="696.70215"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3438">This talk is for developers, contributors and other non-lawyers who </tspan><tspan
+         sodipodi:role="line"
+         x="103.8531"
+         y="718.12213"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3486">are concerned about the global epidemic of software patent suits </tspan><tspan
+         sodipodi:role="line"
+         x="103.8531"
+         y="739.54218"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3488">and how it impacts Linux, GNU, Android and other FOSS projects. </tspan><tspan
+         sodipodi:role="line"
+         x="103.8531"
+         y="760.96216"
+         style="font-size:18px;font-style:normal;line-height:119.00000572%;-inkscape-font-specification:Sans"
+         id="tspan3494" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot17413"
@@ -2083,16 +2098,16 @@
           <text
              sodipodi:linespacing="125%"
              id="text18378"
-             y="590.95007"
-             x="-292.14542"
-             style="font-size:42.445755px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+             y="665.0415"
+             x="-259.90939"
+             style="font-size:47.7674675px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
              xml:space="preserve"
-             transform="scale(0.83744992,1.1941013)"><tspan
-               style="font-size:23.4303894px"
-               y="590.95007"
-               x="-292.14542"
+             transform="scale(0.94244668,1.061068)"><tspan
+               style="font-size:26.3680172px"
+               y="665.0415"
+               x="-259.90939"
                id="tspan18380"
-               sodipodi:role="line">SEPTEMBER</tspan></text>
+               sodipodi:role="line">OKTOBER</tspan></text>
         </g>
         <g
            id="g18499">
@@ -2107,7 +2122,7 @@
                y="796.42114"
                x="-246.43105"
                id="tspan18424"
-               sodipodi:role="line">26</tspan></text>
+               sodipodi:role="line">17</tspan></text>
           <text
              sodipodi:linespacing="102%"
              id="text18426"
@@ -2263,53 +2278,53 @@
          id="tspan19033">i kalenderen din</tspan></text>
     <image
        y="434.66666"
-       x="761.16272"
-       id="image3448"
-       xlink:href="data:image/png;base64,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
+       x="761.16266"
+       id="image3563"
+       xlink:href="data:image/png;base64,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
 "
        height="170.48824"
        width="170.48824" />
